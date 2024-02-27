@@ -4,3 +4,7 @@ The firts is upgrade
 The second is a modification
 The three is a bug
 0.0.0
+
+#command
+
+python manage.py runserver
