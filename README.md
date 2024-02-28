@@ -7,4 +7,8 @@ The three is a bug
 
 #command
 
+Start server
+
 python manage.py runserver
+
+Migration
