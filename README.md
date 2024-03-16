@@ -1,3 +1,8 @@
+# Project
+This project seeks to be a base in a hospital network
+
+
+
 #Welcome to the explanation, control system
 
 The firts is upgrade
